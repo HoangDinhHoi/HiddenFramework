@@ -84,7 +84,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :http => "https://www.dropbox.com/s/bpzmw346yovcv23/HiddenFramework.zip?dl=1" }
+  spec.source       = { :http => "https://www.dropbox.com/s/fd1lmjdlh9dw8wv/HiddenFramework.zip?dl=1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
